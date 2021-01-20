@@ -1,2 +1,2 @@
 # Algo_project
-Algorithmics project 2020/2021 autumn course
+Algorithmics project, 2020/2021 autumn course
